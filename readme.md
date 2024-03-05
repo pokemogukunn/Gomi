@@ -6,7 +6,7 @@ cookieにyuki=Trueを設定すると認証されます。<br>
 サーバーの起動時に掲示板の公式インスタンスに接続します。定期的にサーバーを再起動してください。<br>
 <br>
 <h1>Renderを使用する場合の手順</h1>
-1~4の作業をやらないと、自動でURLがyuki-calculator-[4桁の英数字].onrender.comになります。<br>
+1~4の作業をやらないと、自動でURLがweb-denntaku-(4けたの英数字).onrender.comになります。<br>
 <ol>
 <li>githubアカウントを作成する</li>
 <li>リポジトリを作る(名前はなんでもよい)(プライベートリポジトリ推奨)</li>
